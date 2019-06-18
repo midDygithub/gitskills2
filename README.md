@@ -1,3 +1,3 @@
 # gitskills2
-CREATE a now branch is quick & simple
+Create a new branch is quick AND SIMPLE
 
