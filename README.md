@@ -1,3 +1,2 @@
 # gitskills2
-this is a branch merge test
-
+Create a new branch is quick AND SIMPLE
